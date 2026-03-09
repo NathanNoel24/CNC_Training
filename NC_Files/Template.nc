@@ -1,6 +1,6 @@
 %
-O[Unique Number] 
-([NAME OF DESIGN]) 
+O120209 
+(CNC_Training/NathanPantoja) 
 (This template is for any Haas CNC machine.  EOL characters are not required.  If using another machine check controller documentation.
 
 (Startup Process)
