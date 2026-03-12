@@ -24,7 +24,7 @@ G2	Y2.0 J-0.5				(Start to End Arc)
 [POSITIONS GO HERE]
 
 (End Sequence)
-G0			Z2.				(Raise Cutter)
+G0		Z2.0				(Raise Cutter)
 G28							(Machine Home) 
 M30 						(End of Program)
 %
